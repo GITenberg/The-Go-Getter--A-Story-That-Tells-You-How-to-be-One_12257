@@ -1,0 +1,35 @@
+_repo: The-Go-Getter--A-Story-That-Tells-You-How-to-be-One_12257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kyne, Peter B. (Peter Bernard)
+    alias: Kyne, Peter Bernard
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '1858'
+    url: http://www.gutenberg.org/2009/agents/1858
+    wikipedia: http://en.wikipedia.org/wiki/Peter_B._Kyne
+description: First published in 1921 by American newspaper magnate and leading newspaper
+  publisher William Randolph Hearst, The Go-Getter is the timeless and moving parable
+  of World War I veteran Bill Peck who uses a winning combination of integrity, fortitude,
+  enthusiasm, and accountability to excel against the odds and win a job as a manager
+  despite his disadvantages and disabilities. Peter B. Kayne's inspiring story has
+  lost none of its relevance. By applying the ageless lessons of ...
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Success in business -- Fiction'
+- !lcsh 'Motivation (Psychology) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Go-Getter: A Story That Tells You How to be One'
+url: http://www.gutenberg.org/ebooks/12257
