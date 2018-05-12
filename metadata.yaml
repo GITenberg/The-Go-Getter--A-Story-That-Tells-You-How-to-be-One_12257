@@ -1,5 +1,8 @@
 _repo: The-Go-Getter--A-Story-That-Tells-You-How-to-be-One_12257
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kyne, Peter B. (Peter Bernard)
@@ -15,6 +18,8 @@ description: First published in 1921 by American newspaper magnate and leading n
   enthusiasm, and accountability to excel against the odds and win a job as a manager
   despite his disadvantages and disabilities. Peter B. Kayne's inspiring story has
   lost none of its relevance. By applying the ageless lessons of ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12257#The-Go-Getter--A-Story-That-Tells-You-How-to-be-One
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
